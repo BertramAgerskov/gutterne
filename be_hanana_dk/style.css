@@ -78,3 +78,11 @@ a:hover{
     width: 100%;
     
 }
+.velkommenVM {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+}
