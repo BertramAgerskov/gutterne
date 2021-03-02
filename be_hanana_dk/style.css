@@ -73,9 +73,10 @@ a:hover{
 }
 #menuoversigt{
 }
-.niveau{
+#niveau{
     text-align: center;
     width: 100%;
+<<<<<<< HEAD
     
 }
 .velkommenVM {
@@ -84,4 +85,12 @@ a:hover{
     font-size: 18px;
     padding-left: 40px;
     padding-right: 40px;
+=======
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+#vaelgniveau{
+    
+>>>>>>> 286d0fd6e4487128438ddf3a58459eabc8514692
 }
