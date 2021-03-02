@@ -73,7 +73,7 @@ a:hover{
 }
 #menuoversigt{
 }
-#niveau{
+.niveau{
     text-align: center;
     width: 100%;
     
@@ -84,5 +84,4 @@ a:hover{
     font-size: 18px;
     padding-left: 40px;
     padding-right: 40px;
-    font-weight: bold;
 }
