@@ -76,6 +76,9 @@ a:hover{
 #niveau{
     text-align: center;
     width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
 }
 
 .velkommenvm {
@@ -84,9 +87,6 @@ a:hover{
     font-size: 18px;
     padding-left: 40px;
     padding-right: 40px;
-    font-size: 30px;
-    font-weight: bold;
-    padding-top: 15px;
 }
 #vaelgniveau{
     
