@@ -73,10 +73,13 @@ a:hover{
 }
 #menuoversigt{
 }
-.niveau{
+#niveau{
     text-align: center;
     width: 100%;
     font-size: 30px;
     font-weight: bold;
     padding-top: 15px;
+}
+#vaelgniveau{
+    
 }
