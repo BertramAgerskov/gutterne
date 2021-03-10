@@ -96,3 +96,9 @@ a:hover{
     flex-wrap: wrap;
     text-align: center;   
 }
+.container{
+    background-color: rgb(237, 201, 175);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;   
+}
