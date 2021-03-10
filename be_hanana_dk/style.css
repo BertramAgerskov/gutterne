@@ -103,6 +103,7 @@ a:hover{
     flex-wrap: wrap;
     text-align: center;   
     padding-top: 50px;
+    height: 100%;
 }
 .row{
     padding-top: 10px;
