@@ -47,7 +47,7 @@ a:hover{
     flex-wrap: wrap;
     text-align: center;  
 }
-.start_her {
+#start_her {
     height: 1000px;
     padding-left: 12%;
     padding-top: 20px;
