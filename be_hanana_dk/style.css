@@ -118,13 +118,4 @@ a:hover{
     padding-top: 15px;
     background-color: rgb(237, 201, 175);
 }
-#er_det_ferie{
-    background-color: rgb(0, 0, 0);
-    font-size: 30px;
-    color: rgb(255, 255, 255);
-}
-#jaferie{
-    background-color: rgb(0, 0, 0);
-    font-size: 30px;
-    color: rgb(0, 255, 0);
-}
+
