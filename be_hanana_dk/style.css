@@ -128,3 +128,7 @@ a:hover{
     color:green;
     background-color: rgb(237, 201, 175);
 }
+.col{
+    background-color:  rgb(237, 201, 175);
+    width: 100%;
+}
