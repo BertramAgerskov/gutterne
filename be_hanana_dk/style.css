@@ -37,7 +37,7 @@ a:hover{
 }
 
 #indhold {
-    width: 70%;
+    width: 100%;
     background-color: rgb(237, 201, 175);
     display: flex;
     flex-wrap: wrap;
