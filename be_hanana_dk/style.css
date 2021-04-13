@@ -47,7 +47,7 @@ a:hover{
     background-color: rgb(237, 201, 175);
     display: flex;
     flex-wrap: wrap;
-    text-align: center;  
+    text-align: center; 
 }
 #start_her {
     height: 1000px;
