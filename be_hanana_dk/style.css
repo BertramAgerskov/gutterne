@@ -125,5 +125,6 @@ a:hover{
     font-size: 35px;
     font-weight: bold;
     padding-top: 15px;
-    color: green;
+    text color: green;
+    background-color: rgb(237, 201, 175);
 }
